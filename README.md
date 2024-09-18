@@ -1,5 +1,6 @@
 # pi-challenge
 # 03_05 Challenge Connect Jenkins to GitHub
+[![Build Status](http://ec2-13-48-183-97.eu-north-1.compute.amazonaws.com/buildStatus/icon?job=pipeline+pi)](http://ec2-13-48-183-97.eu-north-1.compute.amazonaws.com/job/pipeline%20pi/)
 
 You're on a team developing an algorithm that calculates the value of pi.
 
